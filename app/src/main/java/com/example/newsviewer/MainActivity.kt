@@ -95,7 +95,7 @@ class MainActivity : ComponentActivity() {
                     TopAppBar(
 
                         title = {
-                            Text("News Client")
+                            Text("NewsViewer")
                         }
                     )
                 }
